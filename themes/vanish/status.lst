@@ -1,0 +1,202 @@
+applications-chat-panel 
+applications-email-panel 
+applications-microblogging-panel 
+appointment-missed stock_appointment-reminder-excl
+appointment-soon stock_appointment-reminder
+apport 
+aptdaemon-add 
+aptdaemon-cleanup 
+aptdaemon-delete 
+aptdaemon-resolve 
+aptdaemon-wait 
+aptdaemon-working 
+audacious-panel 
+audio-volume-high notification-audio-volume-high stock_volume stock_volume-max xfce4-mixer-no-muted
+audio-volume-high-panel xfce4-mixer-volume-high xfce4-mixer-volume-very-high
+audio-volume-low notification-audio-volume-low stock_volume-0 stock_volume-min
+audio-volume-low-panel xfce4-mixer-volume-low
+audio-volume-medium notification-audio-volume-medium stock_volume-med 
+audio-volume-medium-panel xfce4-mixer-volume-low-medium xfce4-mixer-volume-medium
+audio-volume-off notification-audio-volume-off  
+audio-volume-zero-panel audio-volume-low-zero-panel xfce4-mixer-volume-ultra-low
+audio-volume-muted notification-audio-volume-muted stock_volume-mute
+audio-volume-muted-panel 
+audio-volume-muted-blocked-panel audio-volume-muted-blocking-panel xfce4-mixer-muted xfce4-mixer-volume-muted
+avatar-default 
+bluetooth-active blueman-tray 
+bluetooth-disabled 
+bluetooth-paired 
+caffeine-cup-empty 
+caffeine-cup-full 
+covergloobus-panel 
+dcpp-panel dcpp-32
+deadbeef-tray-icon 
+deluge-panel deluge-torrent-panel
+dialog-error error gtk-dialog-error messagebox_critical stock_dialog-error 
+dialog-information dialog-info gtk-dialog-info info messagebox_info stock_dialog-info 
+dialog-password gtk-dialog-authentication 
+dialog-question gtk-dialog-question stock_dialog-question 
+dialog-warning gtk-dialog-warning messagebox_warning stock_dialog-warning xfce4-notifyd
+dropboxstatus-blank blank 
+dropboxstatus-busy busy
+dropboxstatus-busy2 busy2
+dropboxstatus-idle idle
+dropboxstatus-logo logo
+dropboxstatus-x x
+empathy-available 
+empathy-away 
+empathy-busy 
+empathy-extended-away 
+empathy-invisible 
+empathy-offline 
+exaile-panel 
+exaile-pause 
+exaile-play 
+fusion-icon-symbolic fusion-icon-panel
+glippy-panel glipper
+goldendict-panel 
+gnome-do-panel gnome-do-symbolic gnome-do-icon
+gpm-primary-000 battery-000 battery_empty gpm-battery-000 gpm-ups-000 gmp-ups-missing notification-battery-000 notification-battery-empty notification-gpm-battery-000 notification-gpm-battery-empty notification-gpm-ups-000 xfpm-primary-000 xfm-battery-000 
+gpm-primary-000-charging gpm-battery-000-charging gpm-ups-000-charging notification-battery-000-plugged notification-gpm-battery-000-charging notification-gpm-ups-000-charging xfpm-primary-000-charging xfpm-battery-000-charging 
+gpm-primary-020 battery_caution gpm-battery-020 gpm-ups-020 notification-battery-020 notification-battery-low notification-gpm-battery-020 notification-gpm-ups-020 xfpm-primary-020 xfpm-battery-020 
+gpm-primary-020-charging gpm-battery-020-charging gpm-ups-020-charging notification-battery-020-plugged notification-gpm-battery-020-charging notification-gpm-ups-020-charging xfpm-primary-020-charging xfpm-battery-020-charging 
+gpm-primary-040 battery_low gpm-battery-040 gpm-ups-040 notification-battery-040 notification-gpm-battery-040 notification-gpm-ups-040 xfpm-primary-040 xfpm-battery-040 
+gpm-primary-040-charging gpm-battery-040-charging gpm-ups-040-charging notification-battery-040-plugged notification-gpm-battery-040-charging notification-gpm-ups-040-charging xfpm-primary-040-charging xfpm-battery-040-charging 
+gpm-primary-060 battery_two_thirds gpm-battery-060 gpm-ups-060 notification-battery-060 notification-gpm-battery-060 notification-gpm-ups-060 xfpm-primary-060 xfpm-battery-060 
+gpm-primary-060-charging gpm-battery-060-charging gpm-ups-060-charging notification-battery-060-plugged notification-gpm-battery-060-charging notification-gpm-ups-060-charging xfpm-primary-060-charging xfpm-battery-060-charging 
+gpm-primary-080 battery_third_fouth gpm-battery-080 gpm-ups-080 notification-battery-080 notification-gpm-battery-080 notification-gpm-ups-080 xfpm-primary-080 xfpm-battery-080
+gpm-primary-080-charging gpm-battery-080-charging gpm-ups-080-charging notification-battery-080-plugged notification-gpm-battery-080-charging notification-gpm-ups-080-charging xfpm-primary-080-charging xfpm-battery-080-charging
+gpm-primary-100 battery_full gpm-battery-100 gpm-ups-100 notification-battery-100 notification-gpm-battery-100 notification-gpm-ups-100 xfpm-primary-100 xfpm-battery-100
+gpm-primary-100-charging gpm-battery-100-charging gpm-ups-100-charging notification-battery-100-plugged notification-gpm-battery-100-charging notification-gpm-ups-100-charging xfpm-primary-100-charging xfpm-battery-100-charging 
+gpm-primary-charged battery_charged battery_plugged gpm-ac-adapter gpm-battery-charged notification-gpm-battery-charged xfpm-primary-charged xfpm-ac-adapter xfpm-battery-charged 
+gpm-primary-missing 
+gsm-3g-full 
+gsm-3g-full-secure 
+gsm-3g-high 
+gsm-3g-high-secure 
+gsm-3g-medium 
+gsm-3g-medium-secure 
+gsm-3g-low 
+gsm-3g-low-secure 
+gsm-3g-none 
+gsm-3g-none-secure 
+gtk-dialog-warning-panel 
+gtk-dialog-authentication-panel krb-valid-ticket
+gtg-panel 
+guake-tray 
+haguichi-connected 
+haguichi-connecting-1 
+haguichi-connecting-2 
+haguichi-connecting-3 
+haguichi-disconnected 
+ibus-keyboard 
+ibus-panel 
+im-message-new tray-message tray-new-im
+image-loading 
+image-missing gtk-missing-image 
+indicator-messages 
+indicator-messages-new 
+jdownloader-panel 
+keepassx-panel 
+krb-expiring-ticket 
+krb-no-valid-ticket 
+krb-valid-ticket 
+kupfer-panel 
+lastfm-panel 
+locked keys gnome-dev-wavelan-encrypted keys network-wireless-encrypted nm-vpn-standalone-lock status_lock stock_lock xfce-system-lock 
+me-tv-panel 
+media-player-banshee-buffering 
+media-player-banshee-panel banshee-panel
+media-player-banshee-stopped 
+new-messages-red 
+network-error gnome-netstatus-error gnome-netstatus-disconn 
+network-idle connect_established gnome-netstatus-idle nm-device-wireless 
+network-offline connect_no 
+network-receive gnome-netstatus-rx 
+network-transmit gnome-netstatus-tx 
+network-transmit-receive gnome-netstatus-txrx connect_creating connect_established 
+nm-adhoc nm-device-wired nm-device-wired-autoip
+nm-device-wired-secure 
+nm-no-connection 
+nm-signal-00 nm-signal-0 
+nm-signal-00-secure 
+nm-signal-25 gnome-netstatus-0-24 
+nm-signal-25-secure 
+nm-signal-50 gnome-netstatus-25-49 
+nm-signal-50-secure 
+nm-signal-75 gnome-netstatus-50-74 
+nm-signal-75-secure 
+nm-signal-100 gnome-netstatus-75-100 nm-device-wireless nm-device-wwan 
+nm-signal-100-secure 
+nm-vpn-lock nm-vpn-active-lock nm-vpn-connecting12 nm-vpn-connecting13 nm-vpn-connecting14 nm-secure-lock 
+notification-message-email 
+notification-network-ethernet-connected 
+notification-network-ethernet-disconnected 
+notification-network-wireless-disconnected notification-network-disconnected 
+notification-network-wireless-full notification-gsm-full 
+notification-network-wireless-high notification-gsm-high 
+notification-network-wireless-low notification-gsm-low 
+notification-network-wireless-medium notification-gsm-medium 
+notification-network-wireless-none notification-gsm-none 
+pino-tray-icon 
+pino-tray-icon-fresh 
+printer-printing 
+printer-error 
+radiotray_connecting 
+radiotray_off 
+radiotray_on 
+reboot-notifier system-restart-panel system-shutdown-restart-panel 
+rhythmbox-panel
+rhythmbox-notplaying 
+shutter-panel 
+skype_away 
+skype_dnd 
+skype_invisible 
+skype_na 
+skype_offline 
+skype_online 
+skype_skypeme 
+software-update-available 
+software-update-urgent 
+sound-icon 
+synapse-panel 
+system-devices-panel 
+system-devices-panel-alert 
+system-devices-panel-informations 
+system-file-progress-panel nautilus-progress-info-panel system-file-manager-panel 
+ubuntuone-client-error 
+ubuntuone-client-idle 
+ubuntuone-client-offline 
+ubuntuone-client-updating 
+transmission-tray-icon 
+tomboy-panel 
+user-available 
+user-available-panel tray-online 
+user-away 
+user-away-panel tray-away 
+user-busy 
+user-busy-panel tray-busy 
+user-idle 
+user-idle-panel tray-extended-away 
+user-indeterminate 
+user-indeterminate-panel 
+user-invisible 
+user-invisible-panel 
+user-offline 
+user-offline-panel tray-offline 
+user-trash-full edittrash gnome-fs-trash-full gnome-stock-trash-full stock_trash_full trashcan_full xfce-trash-full
+weather-clear stock_weather-sunny sunny 
+weather-clear-night stock_weather-night-clear weather-clear-night-000 weather-clear-night-010 weather-clear-night-020 weather-clear-night-030 weather-clear-night-040 weather-clear-night-050 weather-clear-night-060 weather-clear-night-070 weather-clear-night-080 weather-clear-night-090 weather-clear-night-100 weather-clear-night-110 weather-clear-night-120 weather-clear-night-130 weather-clear-night-140 weather-clear-night-150 weather-clear-night-160 weather-clear-night-170 weather-clear-night-180 weather-clear-night-190 weather-clear-night-200 weather-clear-night-210 weather-clear-night-220 weather-clear-night-230 weather-clear-night-240 weather-clear-night-250 weather-clear-night-260 weather-clear-night-270 weather-clear-night-280 weather-clear-night-290 weather-clear-night-300 weather-clear-night-310 weather-clear-night-320 weather-clear-night-330 weather-clear-night-340 weather-clear-night-350 
+weather-clouds 
+weather-clouds-night 
+weather-few-clouds xfce4-weather
+weather-few-clouds-night categories:applications-astronomy
+weather-fog 
+weather-overcast 
+weather-severe-alert 
+weather-showers 
+weather-showers-scattered 
+weather-snow 
+weather-storm 
+xchat-panel 
+zim-panel 

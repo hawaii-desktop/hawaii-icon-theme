@@ -1,0 +1,160 @@
+add-files-to-archive 
+add-folder-to-archive  
+application-exit exit gtk-quit xfce-system-exit
+appointment-new appointment stock_new-appointment
+bookmark-new bookmark_add bookmark_list_add stock_add-bookmark stock_help-add-bookmark
+call-start 
+call-stop 
+contact-new stock_new-bcard
+dialog-apply gtk-apply stock_calc-accept stock_mail-filters-apply stock_mark 
+dialog-ok gtk-ok ok games-endturn 
+document-export 
+document-import 
+document-new file_new gtk-new stock_new-text
+document-open fileopen gtk-open
+document-open-recent 
+document-page-setup stock_print-setup
+document-print fileprint gtk-print stock_print
+document-print-preview gtk-print-preview preview-file stock_print-preview
+document-properties bonobo-component-browser gtk-properties stock_file-properties stock_folder-properties stock_properties
+document-revert gtk-revert-to-saved-ltr gtk-revert-to-saved-rtl revert
+document-save filesave gtk-save stock_save browser-download
+document-save-as filesaveas gtk-save-as stock_save-as
+document-send 
+edit-clear editclear gtk-clear locationbar-erase
+edit-copy editcopy gtk-copy stock_copy
+edit-cut editcut gtk-cut stock_cut
+edit-paste editpaste gtk-paste stock_paste
+edit-find filefind find gtk-find stock_search
+edit-find-replace gtk-find-and-replace stock_search-and-replace
+edit-redo gtk-redo-ltr redo stock_redo
+edit-select-all gtk-select-all stock_select-all
+edit-undo gtk-undo-ltr undo stock_undo
+extract-archive cab_extract
+format-indent-less gnome-stock-text-unindent gtk-indent-rtl gtk-unindent-ltr stock_text_unindent
+format-indent-more gnome-stock-text-indent gtk-indent-ltr gtk-unindent-rtl stock_text_indent
+format-justify-center centrejust gtk-justify-center stock_text_center
+format-justify-fill gtk-justify-fill stock_text_justify
+format-justify-left leftjust gtk-justify-left stock_text_left
+format-justify-right rightjust gtk-justify-right stock_text_right
+format-text-bold gtk-bold stock_text_bold text_bold
+format-text-direction-ltr 
+format-text-direction-rtl  
+format-text-italic gtk-italic stock_text_italic text_italic
+format-text-strikethrough gtk-strikethrough stock_text-strikethrough text_strike
+format-text-underline gtk-underline stock_text_underlined text_under
+folder-new folder_new stock_new-dir
+folder-copy stock_folder-copy 
+folder-move stock_folder-move 
+folder-open 
+hawaii-app-install-star rhythmbox-set-star star
+go-bottom bottom gtk-goto-bottom stock_bottom
+go-down gtk-go-down stock_down down
+go-first gtk-goto-first-ltr gtk-goto-last-rtl start stock_first
+go-home gohome gtk-home kfm-home redhat-home stock_home 
+go-jump gtk-jump-to-ltr gtk-jump-to-rtl
+go-last finish gtk-goto-first-rtl gtk-goto-last-ltr stock_last
+go-next forward gtk-go-back-rtl gtk-go-forward-ltr next stock_right
+go-previous back gtk-go-back-ltr gtk-go-forward-rtl previous stock_left
+go-top top gtk-goto-top stock_top
+go-up gtk-go-up stock_up up
+gtk-edit 
+gtk-info 
+gtk-no dialog-no stock_no
+gtk-yes dialog-yes stock_yes
+help-about gtk-about stock_about 
+help-contents 
+im-message-new 
+insert-image 
+insert-link 
+insert-object 
+insert-text 
+internet-radio-new 
+list-add add edit-add gtk-add
+list-remove remove gtk-remove edit-delete editdelete gtk-delete stock_delete
+lpi-bug 
+lpi-translate 
+lpi-help 
+lock 
+mail-attachment stock_attach
+mail-inbox stock_inbox
+mail-forward stock_mail-forward gnome-stock-mail-fwd mail_forward  
+mail-mark-important 
+mail-mark-junk 
+mail-mark-notjunk mail-mark-not-junk
+mail-mark-read mail-read
+mail-mark-unread mail-unread 
+mail-message-new gnome-stock-mail-new mail_new stock_mail-compose
+mail-outbox stock_outbox
+mail-reply-sender gnome-stock-mail-rpl mail_reply stock_mail-reply mail-replied
+mail-replied 
+mail-reply-all mail_replyall stock_mail-reply-to-all 
+mail-send gnome-stock-mail-snd mail_send stock_mail-send mail-sent mail-folder-sent stock_sent-mail apps:internet-mail
+mail-send-receive stock_mail-send-receive
+media-eject player-eject
+media-import-audio-cd 
+media-optical-audio-new audio-cd-new 
+media-optical-burn iso-image-burn media-write-cd
+media-optical-copy audio-cd-duplicate 
+media-optical-data-new 
+media-optical-video-new 
+media-playback-pause gtk-media-pause player_pause stock_media-pause
+media-playback-start gtk-media-play-ltr player_play stock_media-play
+media-playback-stop gtk-media-stop player_stop stock_media-stop
+media-playlist-repeat stock_repeat
+media-playlist-shuffle stock_shuffle
+media-record gtk-media-record player_record stock_media-rec
+media-seek-forward gtk-media-forward-ltr gtk-media-rewind-rtl player_fwd stock_media-fwd
+media-seek-backward gtk-media-forward-rtl gtk-media-rewind-ltr player_rew stock_media-rew
+media-skip-forward gtk-media-next-ltr gtk-media-previous-rtl player_end stock_media-next
+media-skip-backward gtk-media-next-rtl gtk-media-previous-ltr player_start stock_media-prev 
+music-library 
+object-flip-horizontal 
+object-flip-vertical 
+object-rotate-left 
+object-rotate-right rotate
+package-available 
+package-available-locked 
+package-broken 
+package-downgrade 
+package-install 
+package-installed-locked 
+package-installed-outdated 
+package-installed-updated 
+package-new 
+package-purge 
+package-reinstall 
+package-remove 
+package-supported 
+package-upgrade 
+podcast-new 
+process-stop gtk-cancel gtk-stop stock_stop stop
+stock_bookmark  
+stock_calendar 
+system-restart-panel 
+system-shutdown-panel 
+system-shutdown-restart-panel system-shutdown-panel-restart
+system-log-out gnome-log-out gnome-logout gnome-session-logout xfsm-logout lxde-logout
+system-lock-screen gnome-lockscreen xfce-system-lock
+system-shutdown xfce-system-exit
+system-run gnome-run gtk-execute bonobo-component-browser
+system-search gnome-searchtool kfind search apps:catfish
+system-upgrade 
+tab-new tab_new stock_new-tab
+tag-new 
+tools-check-spelling gtk-spell-check stock_spellcheck
+view-fullscreen gtk-fullscreen stock_fullscreen window_fullscreen
+view-list-compact-symbolic view-list-compact
+view-list-details-symbolic view-list-details
+view-list-icons-symbolic view-list-icons
+view-restore gtk-leave-fullscreen stock_leave-fullscreen window_nofullscreen
+view-refresh stock-refresh reload_page reload_all_tabs reload3 reload gtk-refresh
+view-sort-ascending gtk-sort-ascending 
+view-sort-descending gtk-sort-descending 
+visualization 
+window-close gtk-close stock_close
+window-new window_new stock_new-window
+zoom-in gtk-zoom-in stock_zoom-in viewmag+
+zoom-out gtk-zoom-out stock_zoom-out viewmag-
+zoom-original gtk-zoom-100 stock_zoom-1 viewmag1
+zoom-fit zoom-best-fit zoom-fit-best gtk-zoom-fit stock_zoom-page viewmagfit

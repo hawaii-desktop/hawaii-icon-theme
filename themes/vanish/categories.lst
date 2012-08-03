@@ -1,0 +1,14 @@
+applications-accessories applications-utilities gnome-util package_utilities redhat-accessories xfce-utils
+applications-development gnome-devel package_development redhat-programming xfce-devel emblems:emblem-development
+applications-fonts 
+applications-games gnome-joystick package_games redhat-games xfce-games devices:input-gaming devices:joystick devices:yast_joystick apps:zsnes
+applications-graphics gnome-graphics package_graphics redhat-graphics xfce-graphics emblems:emblem-art
+applications-internet gnome-globe package_network redhat-internet stock_internet xfce-internet emblems:emblem-web
+applications-multimedia gnome-multimedia multimedia_section package_multimedia redhat-sound_video xfce-multimedia emblems:emblem-multimedia
+applications-office gnome-applications package_office redhat-office xfce-office emblems:emblem-marketing
+applications-other gnome-other preferences-other
+applications-science 
+applications-system gnome-system package_system preferences-system redhat-system_tools system_section xfce-system
+gnome-control-center kcontrol
+preferences-desktop configuration_section gnome-settings gtk-preferences preferences-desktop-personal redhat-preferences xfce4-settings apps:gconf-editor apps:dconf-editor apps:gconfeditor apps:paprefs apps:control-center2 apps:drakconf apps:gconfeditor apps:gkdebconf-icon apps:gkdebconf apps:gnome-desktop-config apps:redhat-server_settings apps:redhat-tools apps:xfce4-mcs-manager apps:xfce4-mcs-manager apps:startupmanager
+
