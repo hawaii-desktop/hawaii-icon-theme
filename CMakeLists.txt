@@ -1,15 +1,12 @@
-project(IconThemes)
+project(HawaiiIconThemes)
 
 cmake_minimum_required(VERSION 2.8.7)
 
+# Installation directories
+include(MauiInstallDirs)
+
 # Make CPack available to easy generate binary packages
 include(CPack)
-
-# GNU-style install directories
-include(GNUInstallDirs)
-
-# Default installation prefix
-set(CMAKE_INSTALL_PREFIX "/system" CACHE PATH "Install path prefix")
 
 # Add custom uninstall target
 configure_file(
