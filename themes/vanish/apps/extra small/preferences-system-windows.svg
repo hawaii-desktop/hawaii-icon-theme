@@ -14,9 +14,9 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.2 r9819"
    version="1.0"
-   sodipodi:docname="preferences-system-windows.svg"
+   sodipodi:docname="preferences-system-windows2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline">
   <defs
@@ -322,15 +322,6 @@
        gradientTransform="matrix(0.60548597,-0.18291744,0.13322228,0.44098703,0.81853832,7.6996387)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3637"
-       id="linearGradient3924"
-       gradientUnits="userSpaceOnUse"
-       x1="4"
-       y1="3.5"
-       x2="5"
-       y2="3.5" />
-    <linearGradient
        id="linearGradient3637">
       <stop
          style="stop-color:#f0f0f0;stop-opacity:1;"
@@ -341,15 +332,6 @@
          offset="1"
          id="stop3641" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3637"
-       id="linearGradient3928"
-       gradientUnits="userSpaceOnUse"
-       x1="4"
-       y1="3.5"
-       x2="5"
-       y2="3.5" />
     <linearGradient
        id="linearGradient3967">
       <stop
@@ -467,7 +449,7 @@
        xlink:href="#linearGradient3871"
        id="linearGradient3926"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2,-2)"
+       gradientTransform="translate(4,-4)"
        x1="10"
        y1="5"
        x2="10"
@@ -480,20 +462,20 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.212949"
-     inkscape:cx="-1.5452046"
-     inkscape:cy="9.5563131"
+     inkscape:zoom="18.535354"
+     inkscape:cx="8.4244423"
+     inkscape:cy="12.866086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-width="492"
+     inkscape:window-height="412"
+     inkscape:window-x="544"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
      inkscape:snap-global="true">
     <sodipodi:guide
        orientation="1,0"
@@ -529,7 +511,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -547,12 +529,6 @@
        id="rect3196"
        style="fill:url(#linearGradient3204);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
        transform="matrix(0,-1,1,0,0,0)" />
-    <path
-       sodipodi:nodetypes="ssccsss"
-       inkscape:connector-curvature="0"
-       id="path3924"
-       d="M 2,0 C 0.892,0 0,0.892 0,2 L 0,4 16,4 16,2 C 16,0.892 15.108,0 14,0 z"
-       style="color:#000000;fill:url(#linearGradient3926);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        style="opacity:0.4;fill:url(#linearGradient3629);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 0,14 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 16,2 C 16,0.892 15.108,0 14,0 L 2,0 C 0.892,0 0,0.892 0,2 l 0,12 z m 0.96875,0 0,-12 C 0.96875,1.416801 1.4168007,0.96875 2,0.96875 l 12,0 c 0.583199,0 1.03125,0.448051 1.03125,1.03125 l 0,12 c 0,0.583199 -0.448051,1.03125 -1.03125,1.03125 l -12,0 C 1.4168007,15.03125 0.96875,14.583199 0.96875,14 z"
@@ -584,26 +560,36 @@
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
        d="m 5,3.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
-       transform="matrix(0,-1.5,1.5,0,-2.75,9.25)" />
+       transform="matrix(0,-1.5,1.5,0,8.2369363,9.25)" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.8;color:#000000;fill:url(#linearGradient3924);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.8;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3922"
        sodipodi:cx="4.5"
        sodipodi:cy="3.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
        d="m 5,3.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
-       transform="matrix(0,1.5,1.5,0,1.25,-4.25)" />
+       transform="matrix(0,1.5,1.5,0,6.0567846,-4.25)" />
     <path
-       transform="matrix(0,1.5,1.5,0,-0.75,-4.25)"
+       transform="matrix(0,1.5,1.5,0,3.7292448,-4.25)"
        d="m 5,3.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
        sodipodi:ry="0.5"
        sodipodi:rx="0.5"
        sodipodi:cy="3.5"
        sodipodi:cx="4.5"
        id="path3926"
-       style="opacity:0.8;color:#000000;fill:url(#linearGradient3928);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.8;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.8;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3069"
+       sodipodi:cx="4.5"
+       sodipodi:cy="3.5"
+       sodipodi:rx="0.5"
+       sodipodi:ry="0.5"
+       d="m 5,3.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       transform="matrix(0,1.5,1.5,0,-2.9067224,-4.196049)" />
   </g>
 </svg>
