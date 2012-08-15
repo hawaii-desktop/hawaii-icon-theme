@@ -1,6 +1,7 @@
 set(INSTALL_DIR ${CMAKE_INSTALL_DATADIR}/icons/Vanish)
 
 file(GLOB ACTIONS "actions/*.svg")
+file(GLOB ACTIONS_SYMBOLIC "actions/symbolic/*.svg")
 file(GLOB ANIMATIONS "animations/*.svg")
 file(GLOB APPS "apps/*.svg")
 file(GLOB DEVICES "devices/*.svg")
@@ -12,6 +13,7 @@ file(GLOB STATUS "status/*.svg")
 file(GLOB STOCK "stock/*.svg")
 
 install(FILES ${ACTIONS} DESTINATION ${INSTALL_DIR}/actions/scalable)
+install(FILES ${ACTIONS_SYMBOLIC} DESTINATION ${INSTALL_DIR}/actions/symbolic)
 install(FILES ${ANIMATIONS} DESTINATION ${INSTALL_DIR}/animations/scalable)
 install(FILES ${APPS} DESTINATION ${INSTALL_DIR}/apps/scalable)
 install(FILES ${DEVICES} DESTINATION ${INSTALL_DIR}/devices/scalable)
