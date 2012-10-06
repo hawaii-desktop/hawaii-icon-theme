@@ -1,11 +1,12 @@
-####################
-ABOUT:             #
-####################
+Elegant icon theme
+------------------
+
+This icon theme is licensed under the GNU General Public License version 2
+and it's based on the elementary icon theme.
+
 elementary is designed and developed by Daniel Foré <Daniel.p.Fore@gmail.com>
 
 GNOME icons, Humanity icons, and elementary icons are all licensed under the GPL.
-
-This package is licensed under GNU General Public License version 2.
 
 Icons based on GNOME and other GNOME projects are licensed GPL.
 	You can visit the GNOME website here:
@@ -18,9 +19,3 @@ Icons based on Tango sources or taken from the Tango project are public domain.
 Icons based on Humanity sources or taken from the elementary project are licensed GPL.
 	You can visit the Humanity website here:
 		http://launchpad.net/humanity
-
-####################
-Special Thanks:    #
-####################
-
-The awesome Humanity team for their hard work!

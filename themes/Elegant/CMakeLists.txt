@@ -1,4 +1,4 @@
-set(INSTALL_DIR ${CMAKE_INSTALL_DATADIR}/icons/Vanish)
+set(INSTALL_DIR ${CMAKE_INSTALL_DATADIR}/icons/Elegant)
 
 file(GLOB ACTIONS "actions/*.svg")
 file(GLOB ACTIONS_SYMBOLIC "actions/symbolic/*.svg")
