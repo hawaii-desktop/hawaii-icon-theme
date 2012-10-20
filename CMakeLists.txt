@@ -3,7 +3,7 @@ project(HawaiiIconThemes)
 cmake_minimum_required(VERSION 2.8.7)
 
 # Installation directories
-include(MauiInstallDirs)
+include(HawaiiInstallDirs)
 
 # Make CPack available to easy generate binary packages
 include(CPack)
