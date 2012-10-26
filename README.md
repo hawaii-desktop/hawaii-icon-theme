@@ -22,6 +22,8 @@ and run cmake:
 If not passed, the CMAKE_INSTALL_PREFIX parameter defaults to /usr/local.
 You have to specify a path that fits your needs, /opt/hawaii is just an example.
 
+Package maintainers would pass *-DCMAKE_INSTALL_PREFIX=/usr*.
+
 ## Installation
 
 It's really, it's just a matter of typing:
