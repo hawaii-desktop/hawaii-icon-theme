@@ -1,1 +1,1 @@
-add_subdirectory(Elegant)
+add_subdirectory(elegant)

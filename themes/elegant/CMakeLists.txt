@@ -1,4 +1,4 @@
-set(INSTALL_DIR ${CMAKE_INSTALL_DATADIR}/icons/Elegant)
+set(INSTALL_DIR ${CMAKE_INSTALL_DATADIR}/icons/elegant)
 
 set(TYPES actions animations apps categories devices emblems mimes notifications panel places status tools)
 set(SIZES 16 22 24 32 48 64 128)
