@@ -10,9 +10,11 @@ foreach(type ${TYPES})
         # Install icons for the current type and size
         file(GLOB ${type}_${size} "${type}/${size}/*.svg")
         install(FILES ${${type}_${size}} DESTINATION ${INSTALL_DIR}/${type}/${size})
-
-        # Install symbolic icons for the current type
-        file(GLOB ${type}_symbolic "${type}/symbolic/*.svg")
-        install(FILES ${${type}_symbolic} DESTINATION ${INSTALL_DIR}/${type})
     endforeach()
+endforeach()
+
+foreach(type ${TYPES})
+    # Install symbolic icons for the current type
+    file(GLOB ${type}_symbolic "${type}/symbolic/*.svg")
+    install(FILES ${${type}_symbolic} DESTINATION ${INSTALL_DIR}/${type})
 endforeach()
