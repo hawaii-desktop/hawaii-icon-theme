@@ -9,7 +9,7 @@ set(ICON_THEMES_VERSION_PATCH 0)
 set(ICON_THEMES_VERSION_STRING "${ICON_THEMES_VERSION_MAJOR}.${ICON_THEMES_VERSION_MINOR}.${ICON_THEMES_VERSION_PATCH}")
 
 # Installation directories
-include(HawaiiInstallDirs)
+include(GNUInstallDirs)
 
 # Add custom uninstall target
 configure_file(
