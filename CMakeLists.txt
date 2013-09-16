@@ -28,4 +28,4 @@ set(CPACK_SET_DESTDIR FALSE)
 include(CPack)
 
 # Subdirectories
-add_subdirectory(themes)
+add_subdirectory(icons)
