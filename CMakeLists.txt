@@ -28,4 +28,5 @@ set(CPACK_SET_DESTDIR FALSE)
 include(CPack)
 
 # Subdirectories
+add_subdirectory(cursors)
 add_subdirectory(icons)
