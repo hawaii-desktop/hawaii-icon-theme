@@ -3,6 +3,13 @@ Icon Themes
 
 Icon themes for the Hawaii desktop environment.
 
+Requires the following icon themes:
+
+* Captiva
+* Faba
+* breeze
+* hicolor
+
 ## Dependencies
 
 There's no build-time dependency but you need the qtsvg module
