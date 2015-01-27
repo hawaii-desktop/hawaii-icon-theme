@@ -7,7 +7,6 @@ Requires the following icon themes:
 
 * Captiva
 * Faba
-* breeze
 * hicolor
 
 ## Dependencies
