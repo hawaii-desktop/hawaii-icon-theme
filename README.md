@@ -5,9 +5,9 @@ Icon themes for the Hawaii desktop environment.
 
 Requires the following icon themes:
 
-* Captiva
-* Faba
-* hicolor
+* [Captiva](https://github.com/captiva-project/captiva-icon-theme)
+* [Faba](https://github.com/moka-project/faba-icon-theme)
+* [hicolor](http://cgit.freedesktop.org/xdg/default-icon-theme/)
 
 ## Dependencies
 
