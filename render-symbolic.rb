@@ -60,11 +60,16 @@ if (ARGV[0].nil?) #render all SVGs
 		context.each_element("g") do |icon|
 			#puts "DEBUG #{icon.attributes.get_attribute('id')}"
 			dir = "#{PREFIX}/#{context_name}"
-			icon_name = icon.attributes.get_attribute("inkscape:label").value
-			chopSVG({	:name => icon_name,
-			 					:id => icon.attributes.get_attribute("id"),
-			 					:dir => dir,
-			 					:file => get_output_filename(dir, icon_name)})
+			icon_attr = icon.attributes.get_attribute("inkscape:label")
+			if icon_attr.nil?
+				puts "Missing inkscape:label attribute, skip #{icon.attributes.get_attribute('id')}"
+			else
+				icon_name = icon_attr.value
+				chopSVG({	:name => icon_name,
+						:id => icon.attributes.get_attribute("id"),
+						:dir => dir,
+						:file => get_output_filename(dir, icon_name)})
+			end
 		end
 	end
   puts "\nrendered all SVGs"
@@ -74,10 +79,10 @@ else #only render the icons passed
   	icon = svg.root.elements["//g[@inkscape:label='#{icon_name}']"]
   	dir = "#{PREFIX}/#{icon.parent.attributes['inkscape:label']}"
 		chopSVG({	:name => icon_name,
-		 					:id => icon.attributes["id"],
-		 					:dir => dir,
-		 					:file => get_output_filename(dir, icon_name),
-		 					:forcerender => true})
+				:id => icon.attributes["id"],
+				:dir => dir,
+				:file => get_output_filename(dir, icon_name),
+				:forcerender => true})
 	end
   puts "\nrendered #{ARGV.length} icons"
 end
