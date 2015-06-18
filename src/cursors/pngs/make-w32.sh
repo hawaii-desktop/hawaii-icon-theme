@@ -1,7 +1,7 @@
 #!/bin/sh
 # $@ is for the caller to be able to supply arguments to anicursorgen (-s, in particular)
 GEN=../anicursorgen.py\ "$@"
-for theme in Adwaita Adwaita-Large Adwaita-ExtraLarge
+for theme in Hawaii Hawaii-Large Hawaii-ExtraLarge
 do
   mkdir -p ../../../$theme/cursors
   ${GEN} left_ptr_watch.in ../../../$theme/cursors/left_ptr_watch.ani

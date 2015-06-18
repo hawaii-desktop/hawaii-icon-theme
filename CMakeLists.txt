@@ -30,7 +30,6 @@ include(CPack)
 add_custom_target(dist COMMAND ${CMAKE_MAKE_PROGRAM} package_source)
 
 # Subdirectories
-add_subdirectory(cursors)
 add_subdirectory(icons)
 
 # Install icon themes
