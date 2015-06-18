@@ -18,7 +18,7 @@ in order to see icons in applications.
 
 This icon theme is derived from the work of others.
 
-### src/symbolic
+### src/symbolic and src/cursors
 
 Symbolic icons are based on [Adwaita](https://git.gnome.org/browse/adwaita-icon-theme/) symbolic icons
 from the GNOME Project with the following license:
