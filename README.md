@@ -1,7 +1,10 @@
-Icon Themes
-===========
+Icon Theme
+==========
 
-Icon themes for the Hawaii desktop environment.
+[![GitHub release](https://img.shields.io/github/release/hawaii-desktop/hawaii-icon-themes.svg)](https://github.com/hawaii-desktop/hawaii-icon-themes)
+[![GitHub issues](https://img.shields.io/github/issues/hawaii-desktop/hawaii-icon-themes.svg)](https://github.com/hawaii-desktop/hawaii-icon-themes/issues)
+
+Icon and cursor themes for the Hawaii desktop environment.
 
 Requires the following icon themes:
 
@@ -12,7 +15,7 @@ Requires the following icon themes:
 ## Dependencies
 
 There's no build-time dependency but you need the qtsvg module
-in order to see icons in applications.
+in order to see icons in Qt applications.
 
 ## Licenses
 
@@ -34,7 +37,7 @@ Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
 ## Build
 
-Building Icon Themes is a piece of cake.
+Building this is a piece of cake.
 
 Assuming you are in the source directory, just create a build directory
 and run cmake:
