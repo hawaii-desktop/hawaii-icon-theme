@@ -1,4 +1,4 @@
-project(HawaiiIconThemes)
+project(HawaiiIconTheme)
 
 cmake_minimum_required(VERSION 2.8.7)
 
@@ -8,7 +8,7 @@ set(PROJECT_VERSION_MAJOR 0)
 set(PROJECT_SOVERSION 0)
 
 # Set up packaging
-set(CPACK_PACKAGE_NAME "hawaii-icon-themes")
+set(CPACK_PACKAGE_NAME "hawaii-icon-theme")
 set(CPACK_PACKAGE_VERSION "${PROJECT_VERSION}")
 set(CPACK_GENERATOR "TGZ")
 set(CPACK_SET_DESTDIR FALSE)
