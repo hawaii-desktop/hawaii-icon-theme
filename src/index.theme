@@ -4,7 +4,7 @@ Name[it]=Hawaii
 Comment=Elegant, graceful and neat theme.
 Comment[it]=Tema elegante, raffinato e pulito.
 Example=directory-x-normal
-Inherits=Faba,hicolor
+Inherits=hicolor
 
 # KDE Specific Stuff
 DisplayDepth=32
