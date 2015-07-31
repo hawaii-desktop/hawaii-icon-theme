@@ -37,7 +37,7 @@ if ("${ECM_VERSION}" VERSION_LESS "1.7.0")
 endif()
 
 # Subdirectories
-add_subdirectory(icons)
+add_subdirectory(src)
 
 # Install icon themes
 install(DIRECTORY Hawaii DESTINATION ${DATA_INSTALL_DIR}/icons)
