@@ -4,7 +4,7 @@ Name[it]=Hawaii
 Comment=Elegant, graceful and neat theme.
 Comment[it]=Tema elegante, raffinato e pulito.
 Example=directory-x-normal
-Inherits=Captiva,Faba,hicolor
+Inherits=Faba,hicolor
 
 # KDE Specific Stuff
 DisplayDepth=32
@@ -20,17 +20,63 @@ MainToolbarSizes=16,22,32,48
 SmallDefault=16
 SmallSizes=16
 PanelDefault=32
-PanelSizes=16,22,32,48,64,72,96,128
+PanelSizes=16,22,32,48,64,72,96,128,256
 
 # Directory list
-Directories=scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
+Directories=scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,16x16/apps,16x16/web,22x22/apps,22x22/web,24x24/apps,24x24/web,32x32/apps,32x32/web,48x48/apps,48x48/web,64x64/apps,64x64/web,96x96/apps,96x96/web,256x256/apps,256x256/web
 
+# Actions
 [scalable/actions]
 Context=Actions
 Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+# Applications
+[16x16/apps]
+Context=Applications
+Size=16
+Type=Threshold
+
+[22x22/apps]
+Context=Applications
+Size=22
+Type=Threshold
+
+[24x24/apps]
+Context=Applications
+Size=24
+Type=Threshold
+
+[32x32/apps]
+Context=Applications
+Size=32
+Type=Threshold
+
+[48x48/apps]
+Context=Applications
+Size=48
+Type=Threshold
+
+[64x64/apps]
+Context=Applications
+Size=64
+Type=Threshold
+
+[96x96/apps]
+Context=Applications
+Size=96
+MinSize=80
+MaxSize=96
+Type=scalable
+
+[256x256/apps]
+Context=Applications
+Size=256
+MinSize=97
+MaxSize=256
+Type=scalable
 
 [scalable/apps]
 Context=Applications
@@ -39,6 +85,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Categories
 [scalable/categories]
 Context=Categories
 Size=16
@@ -46,6 +93,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Devices
 [scalable/devices]
 Context=Devices
 Size=16
@@ -53,6 +101,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Emblems
 [scalable/emblems]
 Context=Emblems
 Size=16
@@ -60,6 +109,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Emotes
 [scalable/emotes]
 Context=Emotes
 Size=16
@@ -67,6 +117,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# MIME Types
 [scalable/mimetypes]
 Context=MimeTypes
 Size=16
@@ -74,6 +125,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Places
 [scalable/places]
 Context=Places
 Size=16
@@ -81,9 +133,55 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+# Status
 [scalable/status]
 Context=Status
 Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+# Web
+[16x16/web]
+Context=Applications
+Size=16
+Type=Threshold
+
+[22x22/web]
+Context=Applications
+Size=22
+Type=Threshold
+
+[24x24/web]
+Context=Applications
+Size=24
+Type=Threshold
+
+[32x32/web]
+Context=Applications
+Size=32
+Type=Threshold
+
+[48x48/web]
+Context=Applications
+Size=48
+Type=Threshold
+
+[64x64/web]
+Context=Applications
+Size=64
+Type=Threshold
+
+[96x96/web]
+Context=Applications
+Size=96
+MinSize=65
+MaxSize=96
+Type=scalable
+
+[256x256/web]
+Context=Applications
+Size=256
+MinSize=97
+MaxSize=256
+Type=scalable
