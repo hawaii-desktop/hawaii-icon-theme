@@ -45,6 +45,11 @@ the KDE Project and it's licensed under the terms of the GNU LGPL v3.
 
 For more information please [read here](http://quickgit.kde.org/?p=breeze.git&a=blob&f=COPYING-ICONS&o=plain).
 
+### src/raster
+
+Those icons come from the [Captiva](https://github.com/captiva-project/captiva-icon-theme)
+icon theme and are licensed under the terms of the GNU GPL v3 license.
+
 ## Build
 
 Building this is a piece of cake.
