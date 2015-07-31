@@ -21,6 +21,9 @@ in order to see icons in Qt applications.
 
 This icon theme is derived from the work of others.
 
+The whole derivate work is licensed under the terms of
+the GNU LGPL v3 license.
+
 ### src/symbolic and src/cursors
 
 Symbolic icons are based on [Adwaita](https://git.gnome.org/browse/adwaita-icon-theme/) symbolic icons
@@ -34,6 +37,13 @@ To view a copy of the CC-BY-SA licence, visit
 http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
 Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 ```
+
+### src/other-symbolic/actions
+
+Those icones come from the [Breeze](http://quickgit.kde.org/?p=breeze.git) from
+the KDE Project and it's licensed under the terms of the GNU LGPL v3.
+
+For more information please [read here](http://quickgit.kde.org/?p=breeze.git&a=blob&f=COPYING-ICONS&o=plain).
 
 ## Build
 
