@@ -20,7 +20,7 @@ in order to see icons in Qt applications.
 This icon theme is derived from the work of others.
 
 The whole derivate work is licensed under the terms of
-the GNU LGPL v3 license.
+the GNU GPL v3 license.
 
 ### src/symbolic and src/cursors
 
