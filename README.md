@@ -50,6 +50,11 @@ For more information please [read here](http://quickgit.kde.org/?p=breeze.git&a=
 Those icons come from the [Captiva](https://github.com/captiva-project/captiva-icon-theme)
 icon theme and are licensed under the terms of the GNU GPL v3 license.
 
+### src/scalable
+
+Those icons come from the [Elementary](https://launchpad.net/elementaryicons) icon
+theme version 3.2.1, and are licensed under the terms of the GNU GPL v3 license.
+
 ## Build
 
 Building this is a piece of cake.
