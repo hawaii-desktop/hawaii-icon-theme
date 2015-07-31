@@ -40,8 +40,8 @@ Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
 ### src/other-symbolic/actions
 
-Those icones come from the [Breeze](http://quickgit.kde.org/?p=breeze.git) from
-the KDE Project and it's licensed under the terms of the GNU LGPL v3.
+Those icons are derivate work of [Breeze](http://quickgit.kde.org/?p=breeze.git) from
+the KDE Project and are licensed under the terms of the GNU LGPL v3.
 
 For more information please [read here](http://quickgit.kde.org/?p=breeze.git&a=blob&f=COPYING-ICONS&o=plain).
 
