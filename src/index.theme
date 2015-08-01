@@ -23,7 +23,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128,256
 
 # Directory list
-Directories=scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/mimetypes,16x16/places,16x16/web,22x22/apps,22x22/web,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/mimetypes,24x24/places,24x24/web,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/mimetypes,32x32/places,32x32/web,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/mimetypes,48x48/places,48x48/web,64x64/actions,64x64/apps,64x64/categories,64x64/devices,64x64/mimetypes,64x64/places,64x64/web,96x96/apps,96x96/web,128x128/actions,128x128/categories,128x128/devices,128x128/mimetypes,64x64/places,256x256/apps,256x256/web
+Directories=16x16/actions,24x24/actions,32x32/actions,48x48/actions,64x64/actions,128x128/actions,scalable/actions,16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,96x96/apps,256x256/apps,scalable/apps,16x16/categories,24x24/categories,32x32/categories,48x48/categories,64x64/categories,128x128/categories,scalable/categories,16x16/devices,24x24/devices,32x32/devices,48x48/devices,64x64/devices,128x128/devices,scalable/devices,scalable/emblems,scalable/emotes,16x16/mimetypes,24x24/mimetypes,32x32/mimetypes,48x48/mimetypes,64x64/mimetypes,128x128/mimetypes,scalable/mimetypes,16x16/places,24x24/places,32x32/places,48x48/places,64x64/places,128x128/places,scalable/places,scalable/status,16x16/web,22x22/web,24x24/web,32x32/web,48x48/web,64x64/web,96x96/web,256x256/web
 
 # Actions
 [16x16/actions]
