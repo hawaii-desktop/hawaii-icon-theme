@@ -17,30 +17,22 @@ set(CPACK_SOURCE_IGNORE_FILES "/build/;/.git;/.tx/;~$;${CPACK_SOURCE_IGNORE_FILE
 include(CPack)
 add_custom_target(dist COMMAND ${CMAKE_MAKE_PROGRAM} package_source)
 
-# ECM
-find_package(ECM 1.4.0 REQUIRED NO_MODULE)
-set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake" ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR})
-
 # Macros
 include(FeatureSummary)
-include(KDEInstallDirs)
-include(KDECMakeSettings)
+include(GNUInstallDirs)
 
 # Add custom uninstall target
-if ("${ECM_VERSION}" VERSION_LESS "1.7.0")
-    # ECM 1.7.0 provides this target, so we can't roll our own (see issue #172)
-    configure_file(
-        "${CMAKE_CURRENT_SOURCE_DIR}/cmake_uninstall.cmake.in"
-        "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake"
-        IMMEDIATE @ONLY)
-    add_custom_target(uninstall "${CMAKE_COMMAND}" -P "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake")
-endif()
+configure_file(
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake_uninstall.cmake.in"
+    "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake"
+    IMMEDIATE @ONLY)
+add_custom_target(uninstall "${CMAKE_COMMAND}" -P "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake")
 
 # Subdirectories
 add_subdirectory(src)
 
 # Install icon themes
-install(DIRECTORY Hawaii DESTINATION ${DATA_INSTALL_DIR}/icons)
+install(DIRECTORY Hawaii DESTINATION ${CMAKE_INSTALL_FULL_DATADIR}/icons)
 
 # Display featute summary
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)

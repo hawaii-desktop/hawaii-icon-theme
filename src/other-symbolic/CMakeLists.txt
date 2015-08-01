@@ -1,4 +1,4 @@
-set(INSTALL_DIR ${DATA_INSTALL_DIR}/icons/Hawaii)
+set(INSTALL_DIR ${CMAKE_INSTALL_FULL_DATADIR}/icons/Hawaii)
 
 set(TYPES actions apps categories devices emblems mimes emotes mimetypes places status)
 
