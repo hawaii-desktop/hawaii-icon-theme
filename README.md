@@ -4,6 +4,7 @@ Icon Theme
 [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=hawaii-desktop)
 [![GitHub release](https://img.shields.io/github/release/hawaii-desktop/hawaii-icon-themes.svg)](https://github.com/hawaii-desktop/hawaii-icon-themes)
 [![GitHub issues](https://img.shields.io/github/issues/hawaii-desktop/hawaii-icon-themes.svg)](https://github.com/hawaii-desktop/hawaii-icon-themes/issues)
+[![Build Status](https://travis-ci.org/hawaii-desktop/hawaii-icon-theme.svg?branch=master)](https://travis-ci.org/hawaii-desktop/hawaii-icon-theme)
 
 Icon and cursor themes for the Hawaii desktop environment.
 
