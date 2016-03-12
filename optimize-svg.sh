@@ -24,7 +24,7 @@ function generatePng {
 function evaluateOptimization {
 #     that regex is to just take A from "A (B)"
     res=`compare -metric MAE $1 $2 /dev/null 2>&1 | sed "s/^\\([0-9]*\\).*/\\1/"` #-fuzz 5
-    if [ "$res" -gt 100 ]; then
+    if [ $res -gt 100 ]; then
         echo "huuuuge difference of $res in $3"
     else
         mv $4 $3
