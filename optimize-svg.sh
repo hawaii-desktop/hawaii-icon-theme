@@ -33,7 +33,7 @@ function evaluateOptimization {
     fi
 }
 
-find . -name "*.svg" -size 4k -print0 | while IFS= read -r -d '' file
+find Hawaii -name "*.svg" -size 4k -print0 | while IFS= read -r -d '' file
 do
     echo "doing... $file"
     generatePng "$file" /tmp/A.png
@@ -42,7 +42,7 @@ do
     evaluateOptimization /tmp/A.png /tmp/B.png "$file" "$file".tmp.svg
 done
 
-find . -name "*.svgz" -print0 | while IFS= read -r -d '' file
+find Hawaii -name "*.svgz" -print0 | while IFS= read -r -d '' file
 do
     echo "z-doing... $file"
     generatePng "$file" /tmp/A.png
