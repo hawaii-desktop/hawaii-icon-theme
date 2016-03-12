@@ -5,6 +5,13 @@ then
     echo "Please install svgo: npm install svgo"
     exit 1
 fi
+
+if ! command -v compare >/dev/null
+then
+    echo "Please install compare"
+    exit 1
+fi
+
 # regarding convertStyleToAttrs, see: https://github.com/svg/svgo/issues/489
 # regarding convertPathData, see: https://github.com/svg/svgo/issues/490
 ARGS="--pretty --disable=convertStyleToAttrs --disable=convertPathData"
