@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><title>Gnome Symbolic Icon Theme</title><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM6 5c.558 0 1.03.473 1.03 1.03V7c0 .558-.472 1-1.03 1s-1-.442-1-1v-.97C5 5.474 5.442 5 6 5zm4 0c.558 0 1 .473 1 1.03V7c0 .558-.442 1-1 1s-1-.442-1-1v-.97C9 5.474 9.442 5 10 5zm3 5.943c-.766-.428-1.612-.92-2.476-.94-.652.02-1.24.654-1.524.697-.542.314-1.56.196-2 0-.917-.437-.92-.68-1.543-.7-.853.02-1.832.404-2.457.943v-.5c.422-1.086 2.38-2.045 4-.87.35.22.427.266 1.015.336.16.054.592-.035.985-.338 1.582-1.153 3.292-.12 4 .87z" fill="#babdb6" overflow="visible"/></svg>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='face-worried-symbolic.svg' inkscape:export-filename='/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png' inkscape:export-xdpi='90' inkscape:export-ydpi='90' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='g71291' inkscape:cx='-489.47664' inkscape:cy='-244.50047' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='false' objecttolerance='10' pagecolor='#3a3b39' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-nodes='false' inkscape:snap-others='false' inkscape:snap-to-guides='true' inkscape:window-height='976' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='31' inkscape:zoom='1'>
+    <inkscape:grid dotted='false' empspacing='2' enabled='true' id='grid4866' originx='-359.99998' originy='424' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <title id='title9167'>Gnome Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.28202934,-0.18908311,-0.99988321,239.54008,-879.45557)' id='linearGradient19282' osb:paint='solid'>
+      <stop id='stop19284' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer11' inkscape:label='apps' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer13' inkscape:label='places' style='display:inline' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-601.00018,-641)'>
+    <path inkscape:connector-curvature='0' d='m 609.0002,642 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.86599,0 7,-3.13401 7,-7 0,-3.86599 -3.13401,-7 -7,-7 z m -2,4 c 0.55833,0 1.03125,0.47292 1.03125,1.03125 l 0,0.96875 c 0,0.55833 -0.47292,1 -1.03125,1 -0.55833,0 -1,-0.44167 -1,-1 l 0,-0.96875 c 0,-0.55833 0.44167,-1.03125 1,-1.03125 z m 4,0 c 0.55833,0 1,0.47292 1,1.03125 l 0,0.96875 c 0,0.55833 -0.44167,1 -1,1 -0.55833,0 -1,-0.44167 -1,-1 l 0,-0.96875 c 0,-0.55833 0.44167,-1.03125 1,-1.03125 z m 3,5.94286 c -0.76555,-0.42797 -1.6121,-0.92076 -2.47566,-0.93995 -0.65285,0.0193 -1.23894,0.6539 -1.52434,0.69709 -0.54153,0.31352 -1.55932,0.19637 -2,0 -0.91691,-0.43721 -0.92121,-0.68027 -1.54333,-0.70038 -0.85242,0.0189 -1.83128,0.40453 -2.45667,0.94324 l 0,-0.5 c 0.42161,-1.08586 2.38082,-2.04455 4,-0.87083 0.34921,0.22009 0.42727,0.26657 1.01479,0.33656 0.15925,0.0555 0.59227,-0.0338 0.98521,-0.33659 1.5816,-1.15342 3.29222,-0.11851 4,0.87086 z' id='path71360-0' sodipodi:nodetypes='ssssssssssssssssssscccccccccccc' style='display:inline;overflow:visible;fill:#babdb6;fill-opacity:1;stroke:none'/>
+    
+  </g>
+  <g inkscape:groupmode='layer' id='g4953' inkscape:label='categories' style='display:inline' transform='translate(-601.00018,-641)'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-601.00018,-641)'/>
+</svg>
