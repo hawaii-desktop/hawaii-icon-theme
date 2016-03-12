@@ -31,6 +31,7 @@ function evaluateOptimization {
             mv $4 $3
         fi
     fi
+    rm -f $4
 }
 
 find Hawaii -name "*.svg" -size 4k -print0 | while IFS= read -r -d '' file
