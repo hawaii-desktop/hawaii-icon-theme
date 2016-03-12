@@ -16,7 +16,7 @@
    height="16"
    id="svg7384"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gnome-stencils.svg"
+   sodipodi:docname="stencils.svg"
    inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -42,14 +42,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
-     inkscape:window-height="1376"
+     inkscape:window-height="1416"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-131.47666"
-     inkscape:cy="-666.50047"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-194.7111"
+     inkscape:cy="-784.2806"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer12"
      showborder="false"
@@ -16194,10 +16194,46 @@
          x="30.9998"
          y="287" />
     </g>
+    <g
+       id="g29061"
+       inkscape:label="system-reboot">
+      <rect
+         y="1004.9736"
+         x="39.252941"
+         height="16"
+         width="16"
+         id="rect9367"
+         inkscape:label="a"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:end="4.1878597"
+         sodipodi:start="5.2744827"
+         sodipodi:open="true"
+         d="m 50.413335,1008.4106 a 5.9985991,5.9999995 0 0 1 2.550362,6.7951 5.9985991,5.9999995 0 0 1 -5.86003,4.2807 5.9985991,5.9999995 0 0 1 -5.695168,-4.4979 5.9985991,5.9999995 0 0 1 2.803697,-6.6944"
+         sodipodi:ry="5.9999995"
+         sodipodi:rx="5.9985991"
+         sodipodi:cy="1013.4874"
+         sodipodi:cx="47.216328"
+         id="path3869-2-9"
+         style="color:#000000;overflow:visible;visibility:visible;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4710-2"
+         d="m 47.216332,1006.4875 0,5"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="path3217"
+         d="m 53.271502,1007.8175 c -0.175045,0.1667 -0.331889,0.3546 -0.521492,0.5044 -0.236549,0.1496 -0.522881,0.09 -0.78676,0.1044 -0.507679,0 -1.015359,0.01 -1.523038,0.01 0.0012,0.6634 0.0058,1.327 0.0048,1.9904 -0.0041,0.209 -0.125898,0.3864 -0.277538,0.5195 -0.107654,0.1082 -0.215307,0.2165 -0.322961,0.3247 -0.177987,-0.186 -0.377229,-0.3535 -0.536259,-0.5562 -0.145614,-0.2127 -0.08347,-0.4767 -0.09498,-0.7174 0.0052,-0.922 0.01042,-1.844 0.01563,-2.766 1.066536,-0.011 2.133093,-0.026 3.199615,-0.035 0.294027,0.01 0.468664,0.2695 0.666659,0.4498 0.05879,0.058 0.117571,0.1159 0.176356,0.1738 z"
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    </g>
   </g>
   <path
-     style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-     d="m -230,-192 0,986"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:2.01940846;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+     d="m -230,-191.9805 0,1005.22966"
      id="path26611"
      inkscape:connector-curvature="0" />
 </svg>
