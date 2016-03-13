@@ -38,12 +38,18 @@ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
 Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 ```
 
-### src/other-symbolic/actions
+The following icons are derivate work of [Breeze](http://quickgit.kde.org/?p=breeze.git) from
+the KDE Project and are licensed under the terms of the GNU LGPL v3:
 
-Those icons are derivate work of [Breeze](http://quickgit.kde.org/?p=breeze.git) from
-the KDE Project and are licensed under the terms of the GNU LGPL v3.
+* system-log-out
+* system-suspend
+* system-suspend-hibernate
+* system-switch-user
 
 For more information please [read here](http://quickgit.kde.org/?p=breeze.git&a=blob&f=COPYING-ICONS&o=plain).
+
+Other icons are an original work and licensed under the terms of the GNU LGPL v3,
+please [read here](src/symbolic/CREDITS) for further details.
 
 ### src/raster
 
