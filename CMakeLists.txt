@@ -3,7 +3,7 @@ project(HawaiiIconTheme)
 cmake_minimum_required(VERSION 2.8.7)
 
 # Version
-set(PROJECT_VERSION "0.7.90")
+set(PROJECT_VERSION "0.8.0")
 set(PROJECT_VERSION_MAJOR 0)
 set(PROJECT_SOVERSION 0)
 
